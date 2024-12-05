@@ -1,7 +1,7 @@
-# 👨‍💻 Umar Farooq  
+# Umar Farooq  
 ### 🌐 Cybersecurity Professional | Principal Cyber Security Analyst | Penetration Tester  
 
-Welcome to my GitHub! I'm a seasoned cybersecurity professional with over **15 years of experience** in threat hunting, vulnerability management, malware analysis, and penetration testing. I’m passionate about safeguarding organisations from evolving threats and sharing knowledge through technical reporting, training, and research.
+Welcome to my GitHub! I'm a UK based, seasoned cybersecurity professional with over **13 years of experience** in threat hunting, vulnerability management, malware analysis, and penetration testing. I’m passionate about safeguarding organisations from evolving threats and sharing knowledge through technical reporting, training, and research.
 
 ---
 
